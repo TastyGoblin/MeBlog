@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+}
+
+.back_main {
+  margin: 0;
+  border: 0;
+}
+
+.header {
+  position: absolute;
+  display: inline-block;
+  font-family: 'MuseoModerno', cursive;
+  font-size: 24px;
+  color: white;
+
+}
+
+.Home {
+  position: absolute;
+  left: 30px;
+}
+
+.About {
+  position: absolute;
+  left: 200px;
+}
+
+.Contact {
+  position: absolute;
+  left:370px;
+}
+.Heading {
+  font-family: 'MuseoModerno', cursive;
+  display: inline-block;
+  position: absolute;
+  left: 420px;
+  top: 180px;
+  color: white;
+  font-size: 50px;
+}
+
+.sub-h {
+  font-family: 'MuseoModerno', cursive;
+  display: inline-block;
+  position: absolute;
+  left: 430px;
+  top: 360px;
+  color: white;
+}
+.side_menu {
+  position: relative;
+
+}
+
+.Content {
+  font-family: 'MuseoModerno', cursive;
+  margin: 0;
+
+}
+
+.Intro {
+  font-size: 35px;
+  position: absolute;
+  display: inline-block;
+  top:1000px;
+  left: 180px;
+  margin: 0;
+}
+
+.second_bg {
+  margin: 0;
+  border: 0;
+}
+
+.footer {
+  height: 100px;
+  font-family: 'MuseoModerno', cursive;
+  font-size: 30px;
+}
+
+.Thanks_Section {
+  position: relative;
+  margin-left: 400px;
+}
